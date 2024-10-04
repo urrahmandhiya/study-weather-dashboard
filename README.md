@@ -1,2 +1,2 @@
 # weather-dashboard
-simple weather dashboard using tailwind CSS and chart js (personal learning project)
+simple weather dashboard using tailwind CSS, openweather API (configure with your own api) and chart js (personal learning project)
